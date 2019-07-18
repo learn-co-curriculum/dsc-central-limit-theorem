@@ -19,7 +19,7 @@ The computation would be something like this: we know the mean population, and b
 
 As reference, here's is a rough empirical rule for percentiles within a normal distribution. (And again, by the central limit theorem, we expect our sample means to take on a normal distribution!)
 
-<img src="images/normal_dist.gif">
+<img src="images/new_CentralLimitTheorem.png" width="600">
 
 ## Additional Resources
 
