@@ -6,11 +6,9 @@
 In this lesson, we'll start to investigate a *central* statistical concept; the central limit theorem! (And how to write a good dry math pun.)
 
 ## Objectives
-
 You will be able to:
-
-- Describe how the central limit theorem is related to sampling
-- Describe how the central limit theorem can be used for parameter estimation
+* Describe how the central limit theorem is related to sampling
+* Describe how the central limit theorem can be used for parameter estimation
 
 ## What does the Central Limit Theorem stand for?
 
