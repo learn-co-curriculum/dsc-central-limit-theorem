@@ -6,7 +6,7 @@ on:
     paths: index.ipynb
 
 jobs:
-  Test_remote_action:
+  Sync_Branches:
     uses: learn-co-curriculum/dsc-github-actions-files/.github/workflows/branch_split.yml@v1.0.0
     secrets: inherit
    
