@@ -7,6 +7,6 @@ on:
 
 jobs:
   Sync_Branches:
-    uses: learn-co-curriculum/dsc-github-actions-files/.github/workflows/branch_split.yml@v1.0.2
+    uses: learn-co-curriculum/dsc-github-actions-files/.github/workflows/branch_split.yml@v1.0.3
     secrets: inherit
    
