@@ -23,7 +23,7 @@ For reference, here's is a rough empirical rule for percentiles within a normal 
 
 ## Additional Resources
 
-<a href="http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability13.html">Application of the Central Limit Theorem page, by the Boston University School of Public Health</a>
+<a href="https://web.archive.org/web/20230830185954/https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability13.html">Application of the Central Limit Theorem page, by the Boston University School of Public Health</a>
 
 ## Summary
 
